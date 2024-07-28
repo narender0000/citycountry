@@ -1,0 +1,86 @@
+[
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCountries"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCountryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCountryById"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPostCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterPostCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDbAfterPostCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPutCountryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPutCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterPutCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDbAfterPutCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDeleteCountryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDeleteCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterDeleteCountry"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCities"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCityNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCityById"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPostCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterPostCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDbAfterPostCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPutCityNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testPutCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterPutCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDbAfterPutCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDeleteCityNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testDeleteCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testAfterDeleteCity"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.GeoHubControllerTests.testGetCountryByCityId"
+    },
+    {
+        "test_case_name_enum": "com.example.geohub.SmokeTest.contextLoads"
+    }
+]
